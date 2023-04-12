@@ -13,3 +13,4 @@ jupyter
 tensorflow-macos; sys_platform == 'darwin'
 tensorflow; sys_platform == 'linux'
 keras
+fastdtw
